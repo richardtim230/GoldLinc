@@ -38,7 +38,7 @@ p, ul {
   position: sticky;
   top: 0;
   z-index: 1000;
-  width: 100%;
+  width: 80%;
 }
 
 .header .logo img {
@@ -160,7 +160,8 @@ nav ul {
 /* Gallery Section */
 gallery-section {
   padding: 40px 20px;
-  background: white;
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  color: white;
   border-radius: 10px;
 }
 
@@ -172,8 +173,8 @@ gallery-section {
 }
 
 .gallery-item img {
-  width: 100%;
-  max-width: 300px; /* Fixed width */
+  width: 80%;
+  max-width: 200px; /* Fixed width */
   height: 200px; /* Fixed height */
   object-fit: cover; /* Ensures images fit within the placeholder */
   border-radius: 10px;
