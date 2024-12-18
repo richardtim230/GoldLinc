@@ -158,7 +158,7 @@ nav ul {
 }
 
 /* Gallery Section */
-gallery-section {
+.gallery-section {
   padding: 40px 20px;
   background: linear-gradient(135deg, #6a11cb, #2575fc);
   color: white;
